@@ -1,6 +1,6 @@
 ---
 title: NORCOM 2025 </br> 16-18 June 2025, Iceland
-maxwidth: 42em
+maxwidth: 40em
 ---
 
 # 15th Nordic Combinatorial Conference
@@ -12,6 +12,9 @@ countries. At NORCOM, mathematicians from the Nordic countries as well
 as from other countries meet and interact in an informal, relaxed
 atmosphere. All fields of mathematics related to combinatorics and
 discrete mathematics are welcome.
+\
+\
+![Icelandic road](grjothals.jpeg){ width=38em } \
 
 # Plenary speakers
 
