@@ -34,15 +34,15 @@ KEF Keflavík airport
 
 #  Organizing committee
 
-- One
-- Two
-- Three
-- Four
+- [Henning Ulfarsson](https://permutatriangle.github.io/authors/ulfarsson.html) (Chair), Reykjavik University
+- [Anders Claesson](https://akc.is/), University of Iceland
+- [Guilio Cerbai](https://sites.google.com/view/giulio-cerbai/), University of Iceland
+- Reed Acton, Reykjavik University
 
 #  Steering committee
 
-- [Petter Brändén](https://www.kth.se/profile/pbranden) (KTH Royal Institute of Technology)
-- [Anders Claesson](https://english.hi.is/staff/akc) (University of Iceland)
-- [Olav Geil](https://people.math.aau.dk/~olav/) (University of Aalborg)
-- [Trygve Johnsen](https://en.uit.no/ansatte/trygve.johnsen) (UiT The Arctic University of Norway)
-- [Patric Östergård](https://users.aalto.fi/~pat/) (Aalto University)
+- [Petter Brändén](https://www.kth.se/profile/pbranden), KTH Royal Institute of Technology
+- [Anders Claesson](https://english.hi.is/staff/akc), University of Iceland
+- [Olav Geil](https://people.math.aau.dk/~olav/), University of Aalborg
+- [Trygve Johnsen](https://en.uit.no/ansatte/trygve.johnsen), UiT The Arctic University of Norway
+- [Patric Östergård](https://users.aalto.fi/~pat/), Aalto University
