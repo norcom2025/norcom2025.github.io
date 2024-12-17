@@ -1,5 +1,5 @@
 ---
-title: NORCOM 2025 </br> 16-18 June 2025, Iceland
+title: NORCOM 2025 </br> 16-18 June 2025, Reykjavik, Iceland
 maxwidth: 40em
 ---
 
