@@ -26,11 +26,11 @@ TBD
 
 # Contributed talks
 
-TBD
+You will be able to indicate at time of registration whether you intend to give a talk.
 
 # Travel
 
-KEF Keflavík airport
+[Keflavík Airport](https://www.kefairport.com/) is Iceland's main hub for international travel.
 
 #  Organizing committee
 
