@@ -22,7 +22,7 @@ TBD
 
 # Registration
 
-TBD
+Registration is not open yet.
 
 # Contributed talks
 
