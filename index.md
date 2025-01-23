@@ -18,7 +18,8 @@ discrete mathematics are welcome.
 
 # Plenary speakers
 
-TBD
+- [Cecilia Holmgren](https://www.uu.se/en/contact-and-organisation/staff?query=N5-824), Uppsala University
+- [Natasha Blitvic](https://www.qmul.ac.uk/maths/profiles/blitvicn.html), Queen Mary University of London
 
 # Registration
 
