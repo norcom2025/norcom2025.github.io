@@ -16,6 +16,9 @@ discrete mathematics are welcome.
 \
 ![Icelandic road](grjothals.jpeg){ width=38em } \
 
+This year the conference takes place in Iceland, with lectures taking
+place at [https://www.ru.is/en](Reykjavik University).
+
 # Plenary speakers
 
 - [Cecilia Holmgren](https://www.uu.se/en/contact-and-organisation/staff?query=N5-824), Uppsala University
