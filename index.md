@@ -14,10 +14,12 @@ atmosphere. All fields of mathematics related to combinatorics and
 discrete mathematics are welcome.
 \
 \
-![Icelandic road](grjothals.jpeg){ width=38em } \
+![View from Tjörnin](images/tjornin.jpg){ width=39em } \
 
 This year the conference is held in Iceland, with lectures taking
 place at [Reykjavik University](https://www.ru.is/en).
+
+[![Location of Reykjavik University](images/RU.png){ width=39em }](https://maps.app.goo.gl/vAscifVod8ZwsUWS8)
 
 # Plenary speakers
 
