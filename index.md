@@ -16,7 +16,7 @@ discrete mathematics are welcome.
 \
 ![Icelandic road](grjothals.jpeg){ width=38em } \
 
-This year the conference takes place in Iceland, with lectures taking
+This year the conference is held in Iceland, with lectures taking
 place at [https://www.ru.is/en](Reykjavik University).
 
 # Plenary speakers
