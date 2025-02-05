@@ -1,6 +1,6 @@
 ---
 title: NORCOM 2025 </br> 16-18 June 2025, Reykjavik, Iceland
-maxwidth: 40em
+maxwidth: 650px
 ---
 
 # 15th Nordic Combinatorial Conference
@@ -14,12 +14,12 @@ atmosphere. All fields of mathematics related to combinatorics and
 discrete mathematics are welcome.
 \
 \
-![View from Tjörnin](images/tjornin.jpg){ width=39em } \
+![View from Tjörnin](images/tjornin.jpg) \
 
 This year the conference is held in Iceland, with lectures taking
 place at [Reykjavik University](https://www.ru.is/en).
 
-[![Location of Reykjavik University](images/RU.png){ width=39em }](https://maps.app.goo.gl/vAscifVod8ZwsUWS8)
+[![Location of Reykjavik University](images/RU.png)](https://maps.app.goo.gl/vAscifVod8ZwsUWS8)
 
 # Plenary speakers
 
