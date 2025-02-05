@@ -26,13 +26,37 @@ place at [Reykjavik University](https://www.ru.is/en).
 - [Cecilia Holmgren](https://www.uu.se/en/contact-and-organisation/staff?query=N5-824), Uppsala University
 - [Natasha Blitvic](https://www.qmul.ac.uk/maths/profiles/blitvicn.html), Queen Mary University of London
 
-# Registration
+# Registration and contributed talks
 
-Registration is not open yet.
+To register, fill out the first form linked below. During this process,
+you can specify if you intend to present a talk. Next, you need to
+complete the payment form. The registration fee is **300 EUR**; it
+includes lunch on all three days and dinner on Tuesday evening.
 
-# Contributed talks
+Please ensure you submit both the registration and payment forms to
+confirm your participation:
 
-You will be able to indicate at time of registration whether you intend to give a talk.
+- [Registration form](https://forms.gle/giMofhjCgDQJ6BLp9 )
+- [Payment form](https://greidslusida.valitor.is/Tengill/y3he6e)
+
+The *deadline* for registering is
+
+- 10 March if you are contributing a talk; or
+- 15 May if you are *not* contributing a talk.
+
+The conference venue can accommodate 120 participants and we will have
+to close the registration sooner than the deadlines given above if this
+cap is reached.
+
+# Schedule
+
+The conference runs from Monday morning 16 June to Wednesday afternoon
+18 June. Thus, we recommend that participants arrive on Sunday 15 June.
+
+On June 18 there will be a session honoring Einar Steingrímsson on his
+70th birthday.
+
+A detailed timetable will be provided later.
 
 # Travel
 
