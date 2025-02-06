@@ -39,9 +39,9 @@ confirm your participation:
 - [Registration form](https://forms.gle/giMofhjCgDQJ6BLp9 )
 - [Payment form](https://greidslusida.valitor.is/Tengill/y3he6e)
 
-The *deadline* for registering is
+The **deadline** for registering is
 
-- 10 March if you are contributing a talk; or
+- **10 March** if you are contributing a talk; or
 - 15 May if you are *not* contributing a talk.
 
 The conference venue can accommodate 120 participants and we will have
@@ -53,8 +53,8 @@ cap is reached.
 The conference runs from Monday morning 16 June to Wednesday afternoon
 18 June. Thus, we recommend that participants arrive on Sunday 15 June.
 
-On June 18 there will be a session honoring Einar Steingrímsson on his
-70th birthday.
+On June 18 we will be honoring Einar Steingrímsson on his
+70th birthday (Einar fest).
 
 A detailed timetable will be provided later.
 
