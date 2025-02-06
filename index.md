@@ -28,10 +28,13 @@ place at [Reykjavik University](https://www.ru.is/en).
 
 # Registration and contributed talks
 
-To register, fill out the first form linked below. During this process,
-you can specify if you intend to present a talk. Next, you need to
-complete the payment form. The registration fee is **300 EUR**; it
-includes lunch on all three days and dinner on Tuesday evening.
+To register, start by filling out the first form linked below. During
+this process, you can specify if you intend to present a talk. In this
+case, you will be asked for a title and an abstract of your talk.
+
+Next, you need to complete the payment form. The registration fee is
+**300 EUR**; it includes lunch on all three days and dinner on Tuesday
+evening.
 
 Please ensure you submit both the registration and payment forms to
 confirm your participation:
@@ -64,8 +67,8 @@ A detailed timetable will be provided later.
 
 #  Organizing committee
 
-- [Henning Ulfarsson](https://permutatriangle.github.io/authors/ulfarsson.html) (Chair), Reykjavik University
-- [Anders Claesson](https://akc.is/), University of Iceland
+- [Henning Ulfarsson](https://permutatriangle.github.io/authors/ulfarsson.html) (chair), Reykjavik University
+- [Anders Claesson](https://akc.is/) (cochair), University of Iceland
 - [Guilio Cerbai](https://sites.google.com/view/giulio-cerbai/), University of Iceland
 - Reed Acton, Reykjavik University
 
