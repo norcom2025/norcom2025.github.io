@@ -47,6 +47,8 @@ The **deadline** for registering is
 - **10 March** if you are contributing a talk; or
 - 15 May if you are *not* contributing a talk.
 
+Speakers will be notified on **20 March** whether their talk has been accepted.
+
 The conference venue can accommodate 120 participants and we will have
 to close the registration sooner than the deadlines given above if this
 cap is reached.
