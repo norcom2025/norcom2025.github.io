@@ -78,6 +78,6 @@ A detailed timetable will be provided later.
 
 - [Petter Brändén](https://www.kth.se/profile/pbranden), KTH Royal Institute of Technology
 - [Anders Claesson](https://english.hi.is/staff/akc), University of Iceland
-- [Olav Geil](https://people.math.aau.dk/~olav/), University of Aalborg
+- [Olav Geil](https://people.math.aau.dk/~olav/), Aalborg University
 - [Trygve Johnsen](https://en.uit.no/ansatte/trygve.johnsen), UiT The Arctic University of Norway
 - [Patric Östergård](https://users.aalto.fi/~pat/), Aalto University
