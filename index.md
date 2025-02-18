@@ -34,7 +34,8 @@ case, you will be asked for a title and an abstract of your talk.
 
 Next, you need to complete the payment form. The registration fee is
 **300 EUR**; it includes lunch on all three days and dinner on Tuesday
-evening.
+evening. You may delay this step until you are informed about the acceptance
+of your talk.
 
 Please ensure you submit both the registration and payment forms to
 confirm your participation:
