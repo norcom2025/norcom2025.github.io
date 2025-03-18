@@ -25,6 +25,7 @@ place at [Reykjavik University](https://www.ru.is/en).
 
 - [Cecilia Holmgren](https://www.uu.se/en/contact-and-organisation/staff?query=N5-824), Uppsala University
 - [Natasha Blitvic](https://www.qmul.ac.uk/maths/profiles/blitvicn.html), Queen Mary University of London
+- [Richard Ehrenborg](https://www.ms.uky.edu/~jrge/), University of Kentucky
 
 # Registration and contributed talks
 
