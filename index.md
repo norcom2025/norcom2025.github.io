@@ -74,8 +74,7 @@ A detailed timetable will be provided later.
 Accommodation is not included. You'll have to arrange that yourself. There
 are plenty of hotels, Airbnbs, etc. in Reykjavik. There are also student rooms at
 University of Iceland (not Reykjavik University) that anyone can book:
-
-https://www.studenthostel.is/
+[www.studenthostel.is](https://www.studenthostel.is/)
 
 #  Organizing committee
 
