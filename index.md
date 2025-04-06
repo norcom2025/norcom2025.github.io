@@ -69,6 +69,14 @@ A detailed timetable will be provided later.
 
 [Keflavík Airport](https://www.kefairport.com/) is Iceland's main hub for international travel.
 
+# Accommodation
+
+Accommodation is not included. You'll have to arrange that yourself. There
+are plenty of hotels, Airbnbs, etc. in Reykjavik. There are also student rooms at
+University of Iceland (not Reykjavik University) that anyone can book:
+
+https://www.studenthostel.is/
+
 #  Organizing committee
 
 - [Henning Ulfarsson](https://permutatriangle.github.io/authors/ulfarsson.html) (chair), Reykjavik University
