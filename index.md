@@ -29,6 +29,12 @@ place at [Reykjavik University](https://www.ru.is/en).
 
 # Registration and contributed talks
 
+The regstration has closed. If you have registered, but not payed the
+**300 EUR** fee, the please to do so now:
+
+- [Payment form](https://greidslusida.valitor.is/Tengill/y3he6e)
+
+<!--
 To register, start by filling out the first form linked below. During
 this process, you can specify if you intend to present a talk. In this
 case, you will be asked for a title and an abstract of your talk.
@@ -54,6 +60,8 @@ Speakers will be notified on **20 March** whether their talk has been accepted.
 The conference venue can accommodate 120 participants and we will have
 to close the registration sooner than the deadlines given above if this
 cap is reached.
+
+-->
 
 # Schedule
 
