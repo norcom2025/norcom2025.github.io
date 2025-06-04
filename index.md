@@ -30,7 +30,7 @@ place at [Reykjavik University](https://www.ru.is/en).
 # Registration and contributed talks
 
 The regstration has closed. If you have registered, but not payed the
-**300 EUR** fee, the please to do so now:
+**300 EUR** fee, then please do so now:
 
 - [Payment form](https://greidslusida.valitor.is/Tengill/y3he6e)
 
