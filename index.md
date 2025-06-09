@@ -63,15 +63,14 @@ cap is reached.
 
 -->
 
-# Schedule
+# Schedule / Program
 
 The conference runs from Monday morning 16 June to Wednesday afternoon
 18 June. Thus, we recommend that participants arrive on Sunday 15 June.
+On June 18 we will be honoring *Einar Steingrímsson* on his
+70th birthday (*Einar fest*).
 
-On June 18 we will be honoring **Einar Steingrímsson** on his
-70th birthday (**Einar fest**).
-
-A detailed timetable will be provided later.
+- [**Follow this link for a detailed program**](program/)
 
 # Travel
 
