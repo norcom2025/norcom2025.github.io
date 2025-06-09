@@ -74,7 +74,9 @@ On June 18 we will be honoring *Einar Steingrímsson* on his
 
 # Travel
 
-[Keflavík Airport](https://www.kefairport.com/) is Iceland's main hub for international travel.
+- [Keflavík Airport](https://www.kefairport.com/) is Iceland's main hub for international travel.
+- The ["flybus"](https://www.re.is/tour/flybus/) operates in connection with all arriving flights at Keflavík Airport
+  with transportation to the BSÍ Bus Terminal as well as most hotels.
 
 # Accommodation
 
