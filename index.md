@@ -27,6 +27,7 @@ place at [Reykjavik University](https://www.ru.is/en).
 - [Natasha Blitvic](https://www.qmul.ac.uk/maths/profiles/blitvicn.html), Queen Mary University of London
 - [Richard Ehrenborg](https://www.ms.uky.edu/~jrge/), University of Kentucky
 
+<!--
 # Registration and contributed talks
 
 The regstration has closed. If you have registered, but not payed the
@@ -34,7 +35,6 @@ The regstration has closed. If you have registered, but not payed the
 
 - [Payment form](https://greidslusida.valitor.is/Tengill/y3he6e)
 
-<!--
 To register, start by filling out the first form linked below. During
 this process, you can specify if you intend to present a talk. In this
 case, you will be asked for a title and an abstract of your talk.
@@ -65,8 +65,8 @@ cap is reached.
 
 # Schedule / Program
 
-The conference runs from Monday morning 16 June to Wednesday afternoon
-18 June. Thus, we recommend that participants arrive on Sunday 15 June.
+The conference runs from Monday morning 16 June to Wednesday afternoon 18 June.
+<!-- Thus, we recommend that participants arrive on Sunday 15 June. -->
 On June 18 we will be honoring *Einar Steingrímsson* on his
 70th birthday (*Einar fest*).
 
