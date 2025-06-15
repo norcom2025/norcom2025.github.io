@@ -71,6 +71,7 @@ On June 18 we will be honoring *Einar Steingrímsson* on his
 70th birthday (*Einar fest*).
 
 - [**Follow this link for a detailed program**](https://docs.google.com/document/d/e/2PACX-1vQIwWky8hRtfrLdZqxWKG5nfb01ARHdKdsGtKn6Wgt0WXfgNTY4jdHpyiZhQQP0vXOEC1mTobrrvA4g/pub)
+- [Abstracts for contributed talks (PDF)](NORCOM_Abstracts.pdf)
 
 # Travel
 
